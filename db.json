@@ -1,0 +1,21 @@
+{
+    "posts": [
+      {
+        "mId": 1,
+        "Item name": "Biriyani",
+        "Price": 100
+      },
+      {
+        "id": 2,
+        "Item name": "Burger",
+        "Price": 130
+      },
+       {
+        "id": 3,
+        "Item name": "Pizza",
+        "Price": 150
+      },
+     
+    ]
+  }
+}
