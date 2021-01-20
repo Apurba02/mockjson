@@ -1,21 +1,31 @@
 {
+  "data": {
     "posts": [
       {
-        "mId": 1,
-        "Item name": "Biriyani",
-        "Price": 100
+        "id": 21,
+        "title": "xhZctrcDeP",
+        "views": 98
       },
       {
         "id": 2,
-        "Item name": "Burger",
-        "Price": 130
+        "title": "oOoKawNYOn",
+        "views": 96
       },
-       {
-        "id": 3,
-        "Item name": "Pizza",
-        "Price": 150
+      {
+        "id": 86,
+        "title": "YXCyIpoJdV",
+        "views": 96
+      },
+      {
+        "id": 96,
+        "title": "NMIpwlzZJt",
+        "views": 96
+      },
+      {
+        "id": 14,
+        "title": "kitVecwNDM",
+        "views": 95
       }
-     
     ]
   }
-
+}
