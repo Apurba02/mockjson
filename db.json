@@ -2,29 +2,29 @@
   "data": {
     "posts": [
       {
-        "id": 21,
-        "title": "xhZctrcDeP",
-        "views": 98
+        "id": 1,
+        "Item name": "Biriyani",
+        "Price": 100
       },
       {
         "id": 2,
-        "title": "oOoKawNYOn",
-        "views": 96
+        "Item Name": "Pizza",
+        "Price": 130
       },
       {
-        "id": 86,
-        "title": "YXCyIpoJdV",
-        "views": 96
+        "id": 3,
+        "Item name": "Burger",
+        "Price": 150
       },
       {
-        "id": 96,
-        "title": "NMIpwlzZJt",
-        "views": 96
+        "id": 4,
+        "Item Name": "Pasta",
+        "views": 120
       },
       {
-        "id": 14,
-        "title": "kitVecwNDM",
-        "views": 95
+        "id": 5,
+        "title": "Pastry",
+        "views": 80
       }
     ]
   }
